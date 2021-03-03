@@ -54,7 +54,7 @@ Education
 ---------
 
 Finished basic courses at the university in **С++**, **С#**, **java**, **javascript**,
-**HTML/Css**, **SQL**
+**HTML/Css**, **mySQL**
 
 English language
 ----------------

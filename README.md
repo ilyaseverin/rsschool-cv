@@ -1,2 +1,2 @@
 # rsschool-cv
-https://ilyaseverin.github.io/wildlife/
+https://ilyaseverin.github.io/Wildlife/
